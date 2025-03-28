@@ -1,31 +1,59 @@
 
 ---
-# Exforthia
+# Exforthia ![Exforthia](./exforthia/src/main/resources/images/icons/exforthia-icon-color-v1.png)
 
 [![visit my Github](https://img.shields.io/badge/by%20A--Cubica--R-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-cubica-r)
 
-**A secure, offline desktop password and OTP manager**  
+***A secure, offline desktop password and OTP manager***  
 
-Exforthia is a desktop application designed to securely manage passwords and OTP codes without relying on mobile devices or cloud services. Unlike most authentication solutions that are tied to smartphones, Exforthia provides a **local-first** alternative, ensuring that your sensitive data remains secure and accessible even without an internet connection.  
+Exforthia is a desktop application designed to securely manage passwords and **[OTP codes](https://en.wikipedia.org/wiki/One-time_password)** without relying on mobile devices or cloud services. Unlike most authentication solutions that are tied to smartphones, Exforthia provides a **local-first** alternative, ensuring that your sensitive data remains secure and accessible even without an internet connection or a movile phone disponible.  
 
-### **Key Features**  
-🔹 **Desktop-First Approach** – Exforthia is built for Windows desktops, offering a more secure and persistent alternative to mobile-based 2FA solutions.  
-🔹 **Offline and Local Storage** – All data is stored locally and encrypted, eliminating the risk of cloud-based breaches or online leaks.  
-🔹 **Strong Encryption & Obfuscation** – Proprietary encryption methods ensure that even if data is extracted, it remains unreadable without the application.  
-🔹 **Windows Hello Integration (Planned)** – Future support for Windows Hello authentication to enhance accessibility while maintaining security.  
-🔹 **Intuitive & User-Friendly UI** – Designed for general users, Exforthia aims to provide a visually appealing and easy-to-use experience, unlike more complex alternatives.  
-🔹 **Chromium Browser Extension (Planned)** – Allows seamless migration of saved passwords from Chromium-based browsers.  
-🔹 **Recovery System** – Users can restore access via a master recovery file with an obfuscated authentication fragment.  
-
-### **Why Exforthia?**  
-🔐 **More Secure than Mobile 2FA** – Mobile devices are frequently lost, stolen, or compromised. Exforthia offers a desktop-based alternative that reduces this risk.  
-🌍 **Open-Source or Closed-Source?** – The development roadmap includes evaluating whether Exforthia will remain a closed project or be fully open-source.  
-📂 **File-Based Syncing** – While future cloud-based services are being considered, Exforthia currently focuses on encrypted file-based synchronization between devices.  
+---
 
 ### **Under Development 🚧**  
-Exforthia is currently in its early development phase, being structured under the **MVC (Model-View-Controller)** architecture with an **Object-Oriented** foundation.  
+Please note that Exforthia is currently in its early development phase, being structured under the **[MVC](https://en.wikipedia.org/wiki/Model-view-controller)** architecture with an **[Object-Oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)** foundation.  
 
 🚀 Stay tuned for updates and feel free to contribute to the project once it's open for collaboration!  
+
+---
+
+### **Future Key Features**  
+
+<details>
+<summary>
+<h6>What are the plans for the future of this app?</h6>
+</summary>
+
+- 🔹 **Desktop-First Approach**  
+    Exforthia is envisioned as a Windows desktop application, providing a secure and persistent alternative to mobile-based 2FA solutions.
+
+- 🔹 **Offline and Local Storage**  
+    Planned to store all data locally and encrypted, ensuring protection against cloud-based breaches or online leaks.
+
+- 🔹 **Strong Encryption & Obfuscation**  
+    Future implementations will include proprietary encryption methods to keep data unreadable without the application.
+
+- 🔹 **Windows Hello Integration (Planned)**  
+    Anticipated support for Windows Hello authentication to enhance accessibility while maintaining security.
+
+- 🔹 **Intuitive & User-Friendly UI**  
+    Aiming to deliver a visually appealing and easy-to-use interface for general users, simplifying password management.
+
+- 🔹 **Chromium Browser Extension (Planned)**  
+    A future feature to enable seamless migration of saved passwords from Chromium-based browsers.
+
+- 🔹 **Recovery System**  
+    A planned recovery mechanism allowing users to regain access via a master recovery file with an obfuscated authentication fragment.
+</details>
+
+---
+
+### **Why Exforthia?**  
+🔐 **A Secure Alternative to Mobile 2FA** – Mobile devices are often lost, stolen, or compromised. Exforthia is designed to offer a desktop-based solution to mitigate these risks.  
+🌍 **Open-Source or Closed-Source?** – The project roadmap includes evaluating whether Exforthia will eventually be open-source or remain a closed project.  
+📂 **File-Based Syncing** – While cloud-based services may be explored in the future, the initial focus is on encrypted file-based synchronization between devices.  
+
+Stay tuned for updates as these features are developed and brought to life! 🚀    
 
 ---
 
